@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sort_psu.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Sort_psu.dir/objects.a @CMakeFiles\Sort_psu.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Sort_psu.dir/objects.a -Wl,--no-whole-archive -o Sort_psu.exe -Wl,--out-implib,libSort_psu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sort_psu.dir\linklibs.rsp
